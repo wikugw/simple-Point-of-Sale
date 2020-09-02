@@ -1,0 +1,11 @@
+#clear {
+  background: white;
+  color: grey;
+  border-color: grey;
+}
+
+@media only screen and (min-width: 765px) {
+  .card-img-top {
+    height: 120px;
+  }
+}
